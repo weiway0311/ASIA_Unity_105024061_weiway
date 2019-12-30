@@ -495,4 +495,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - Assets/Scenes/game.unity
-  playerPath: C:/weiway0311/ASIA_Unity_105024061_weiway/web
+  playerPath: C:/weiway0311/test123
